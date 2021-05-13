@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettingSiteCore", "BettingSiteCore.csproj", "{5F77EBDA-3533-4AFE-9F13-B85F4D1D8303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F77EBDA-3533-4AFE-9F13-B85F4D1D8303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F77EBDA-3533-4AFE-9F13-B85F4D1D8303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F77EBDA-3533-4AFE-9F13-B85F4D1D8303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F77EBDA-3533-4AFE-9F13-B85F4D1D8303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3DBF91-52A1-4D92-BE4B-22C85CFA95F8}
+	EndGlobalSection
+EndGlobal
